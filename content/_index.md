@@ -14,7 +14,7 @@ title: "Joseph Cho"
 - **TBD**: To Be Decided...
 - **Amazon (Summer 2025, SDE Intern)**: Worked on the core shopping team
 - **Verisign (Summer 2024, SWE Intern)**: Worked on a domain registry service
-- **UMD CS Dept (Fall 2023, Spring 2024, Teaching Assistant)**: Taught oop, dsa, and discrete
+- **UMD CS Dept (Fall 2023, Spring 2024, Teaching Assistant)**: Taught OOP, DSA, and Discrete Structures
 
 ## Club Projects
 
