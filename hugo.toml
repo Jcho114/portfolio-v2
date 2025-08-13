@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Joseph Cho'
+theme = 'shibui'
+
+[params]
+  author = "Joseph Cho"
+  email = "joseph.cho20@gmail.com"
+
+[menu]
+  [[menu.main]]
+
+[build]
+  writeStats = true
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
